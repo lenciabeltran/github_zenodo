@@ -1,9 +1,5 @@
 Last updated: 2026-07-23
 
-This is the original version of the guidance.\
-Please find the shared and edited version at cul-it/github_zenodo_guide.\
-If you use this guide, please cite: 
-
 # A guide for integrating a GitHub repository in Zenodo 
  
 ## Part 1. Quick start  
@@ -56,7 +52,9 @@ If your repository does not yet have a license:
 - Go to the repository main page 
 - Click “Add file”, then “Create new file” 
  
-![GitHub create new file](screenshots/github_newfile.png "GitHub create new file")\
+![GitHub create new file](screenshots/github_newfile.png "GitHub create new file")
+
+
 
 ![GitHub add license](screenshots/github_addlicense.png "GitHub add license")
 
@@ -152,7 +150,7 @@ In the release form:
       - A list of contributors 
       - A link to the changelog 
  
-[Fill in the release in GitHub](screenshots/github_addrelease.png "Fill in the release in GitHub")
+![Fill in the release in GitHub](screenshots/github_addrelease.png "Fill in the release in GitHub")
 
 - You can save the release as a draft or click “Publish release” when ready 
   - GitHub also lets you mark the release as a pre-release if it is not yet considered stable 
@@ -168,12 +166,12 @@ Once processing is complete:
 - Navigate to “My uploads” 
 - Locate the new record and click “View” 
 
-[Dashboard and Uploads page in Zenodo](screenshots/zenodo_dashboard.png "Dashboard and Uploads page in Zenodo")
+![Dashboard and Uploads page in Zenodo](screenshots/zenodo_dashboard.png "Dashboard and Uploads page in Zenodo")
 
 On the record page: 
 - Click “Edit” on the right-hand side to review and update the metadata 
 
-[Edit metadata in zenodo record](screenshots/zenodo_editrecord.png "Edit metadata in zenodo record")
+![Edit metadata in zenodo record](screenshots/zenodo_editrecord.png "Edit metadata in zenodo record")
 
 You will see fields under “Basic Information,” including: 
 - DOI
@@ -202,7 +200,7 @@ Use the version-specific DOI when citing a specific release so that users kn
 Use the concept DOI when citing the software project as a whole across multiple versions. Check out [Zenodo’s DOI versioning documentation](https://zenodo.org/help/versioning) for more details. 
 ___
 
-**In case it’s helpful:**
+**In case it’s helpful to know**\
 Once a Zenodo record for your GitHub repository has been created, you have 30 days to delete the record. 
  
 If you experience any issues integrating your GitHub repository with Zenodo, please [open a support ticket with Zenodo](https://about.zenodo.org/contact/). Their support team can help troubleshoot the issue because the integration is tied directly to your account. 
