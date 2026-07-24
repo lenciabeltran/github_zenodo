@@ -109,7 +109,7 @@ If this is your first time connecting GitHub to Zenodo:
 - You may be asked to enter a verification code, depending on your account security settings 
 - Click “Authorize Zenodo” to grant access 
 
-![Authorize Zenodo to access GitHub](screenshots/github_authorize.png "Authorize Zenodo to access GitHub")\
+![Authorize Zenodo to access GitHub](screenshots/github_authorize.png "Authorize Zenodo to access GitHub")
  
 ![GitHub two factor authentication](screenshots/github_twofactor.png "GitHub two factor authentication")
 
