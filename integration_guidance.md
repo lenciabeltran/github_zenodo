@@ -63,6 +63,7 @@ If your repository does not yet have a license:
 
 A commonly used license is the [MIT License](https://opensource.org/license/mit), but [choose a license](https://opensource.org/licenses) that makes sense for your project. 
 
+
 ![GitHub MIT License is visible](screenshots/github_licensevisible.png "GitHub MIT License is visible")
 
 **Add a CITATION.cff file (Recommended)**
@@ -95,6 +96,7 @@ ___
 
 ![Zenodo profile and select GitHub](screenshots/zenodo_github.png "Zenodo profile and select GitHub")
 
+
 If this is your first time connecting GitHub to Zenodo: 
 - Click “Connect”
 
@@ -103,10 +105,11 @@ If this is your first time connecting GitHub to Zenodo:
 - You will be redirected to GitHub to sign in 
 - You may be asked to enter a verification code, depending on your account security settings 
 - Click “Authorize Zenodo” to grant access 
+
+![Authorize Zenodo to access GitHub](screenshots/github_authorize.png "Authorize Zenodo to access GitHub")
  
-IMAGE
- 
-IMAGE
+
+![GitHub two factor authentication](screenshots/github_authorize.png "GitHub two factor authentication")
 
 After authorization, return to Zenodo.  
 1. In Zenodo, navigate to the GitHub section of your account settings. 
@@ -114,7 +117,7 @@ After authorization, return to Zenodo.
 3. Find the repository you want to archive and toggle the switch next to it to enable it. 
 4. After enabling, reload your browser page in order to see the enabled repository.
 
-IMAGE
+![Zenodo synced repo](screenshots/zenodo_syncedrepo.png "Zenodo synced repo")
  
 Enabling the repository gives Zenodo permission to monitor and automatically archive new releases, which will generate a DOI. 
 
@@ -131,7 +134,7 @@ In GitHub:
 - Go to your repository 
 - On the right-hand side under Releases, click “Create a new release”  
 
-IMAGE 
+![Add a release in GitHub](screenshots/github_releases.png "Add a release in GitHub")
 
 In the release form: 
 - Choose an existing tag or create a new one  
@@ -146,7 +149,7 @@ In the release form:
       - A list of contributors 
       - A link to the changelog 
  
-IMAGE
+[Fill in the release in GitHub](screenshots/github_addrelease.png "Fill in the release in GitHub")
 
 - You can save the release as a draft or click “Publish release” when ready 
   - GitHub also lets you mark the release as a pre-release if it is not yet considered stable 
@@ -162,12 +165,12 @@ Once processing is complete:
 - Navigate to “My uploads” 
 - Locate the new record and click “View” 
 
-IMAGE
+[Dashboard and Uploads page in Zenodo](screenshots/zenodo_dashboard.png "Dashboard and Uploads page in Zenodo")
 
 On the record page: 
 - Click “Edit” on the right-hand side to review and update the metadata 
 
-IMAGE 
+[Edit metadata in zenodo record](screenshots/zenodo_editrecord.png "Edit metadata in zenodo record")
 
 You will see fields under “Basic Information,” including: 
 - DOI
