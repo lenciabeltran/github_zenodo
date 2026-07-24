@@ -220,7 +220,7 @@ ___
 Special thanks to my colleagues, Gabby Evergreen, Dianne Dietrich, Wendy Kozlowski, Jennifer McKee, and Sarah Wright for reviewing this guide. 
 
 <footer>
-© 2026 Lencia McKee\
+© 2026 Lencia McKee \
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
 </footer>
