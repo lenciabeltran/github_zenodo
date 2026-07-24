@@ -7,7 +7,7 @@ Last updated: 2026-07-23
 This section is for researchers who want the shortest path to making a GitHub-hosted software project citable in Zenodo. After enabling the repository in Zenodo, each new GitHub release is captured as a snapshot of the repository and archived in Zenodo. 
  
 Follow these steps to get a DOI from Zenodo for your GitHub repository:  
-![github and zenodo integration flowchart](GitHub_Zenodo_Flowchart_lm07.drawio.png "github and zenodo integration flowchart") 
+![github and zenodo integration flowchart](GitHub_Zenodo_Flowchartwb.png "github and zenodo integration flowchart") 
 ___ 
  
 ## Part 2. Detailed Guide and Reference 
