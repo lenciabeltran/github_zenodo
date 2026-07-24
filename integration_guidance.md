@@ -116,7 +116,8 @@ If this is your first time connecting GitHub to Zenodo:
   height="500"
   style="display: block; margin: 0 auto;">
   
-  
+
+  <img
   src="screenshots/github_twofactor.png"
   alt="GitHub two factor authentication"
   width="400"
