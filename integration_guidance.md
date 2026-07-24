@@ -8,7 +8,10 @@ This section is for researchers who want the shortest path to making a GitHub-ho
  
 Follow these steps to get a DOI from Zenodo for your GitHub repository:
 
-<img2  src="whitebackground02.drawio.png"3  alt="GitHub and Zenodo integration flowchart"4  width="800">
+<img
+  src="whitebackground02.drawio.png"
+  alt="GitHub and Zenodo integration flowchart"
+  width="800">
 ___ 
  
 ## Part 2. Detailed Guide and Reference 
