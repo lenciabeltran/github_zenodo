@@ -1,5 +1,8 @@
 Last updated: 2026-07-23
 
+This is the original version of the guidance.\
+Please find the shared and edited version in X
+
 # A guide for integrating a GitHub repository in Zenodo 
  
 ## Part 1. Quick start  
@@ -52,7 +55,7 @@ If your repository does not yet have a license:
 - Go to the repository main page 
 - Click “Add file”, then “Create new file” 
  
-![GitHub create new file](screenshots/github_newfile.png "GitHub create new file")
+![GitHub create new file](screenshots/github_newfile.png "GitHub create new file")\
 
 ![GitHub add license](screenshots/github_addlicense.png "GitHub add license")
 
@@ -106,10 +109,10 @@ If this is your first time connecting GitHub to Zenodo:
 - You may be asked to enter a verification code, depending on your account security settings 
 - Click “Authorize Zenodo” to grant access 
 
-![Authorize Zenodo to access GitHub](screenshots/github_authorize.png "Authorize Zenodo to access GitHub")
- 
+img src="screenshots/github_authorize.png" alt="Authorize Zenodo to access GitHub" width="200" height="100"
 
-![GitHub two factor authentication](screenshots/github_authorize.png "GitHub two factor authentication")
+
+img src="screenshots/github_twofactor.png" alt="GitHub two factor authentication" width="200" height="100"
 
 After authorization, return to Zenodo.  
 1. In Zenodo, navigate to the GitHub section of your account settings. 
