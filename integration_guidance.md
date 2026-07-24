@@ -38,7 +38,7 @@ If the repository was created as public, you can skip to Step 2. If it was creat
 - Scroll down to the “Danger Zone” section 
 - Locate “Change your repository visibility” and click “Change visibility” 
 
-![GitHub change visibility](screenshots/github_changevisibility.png "GitHub change visibility")
+<img src="screenshots/github_changevisibility.png" alt="GitHub change visibilit" width="200" height="100">
 
 You will be asked to confirm the change (for example, by acknowledging a warning or entering the repository name) before the update is applied. 
 
@@ -109,10 +109,10 @@ If this is your first time connecting GitHub to Zenodo:
 - You may be asked to enter a verification code, depending on your account security settings 
 - Click “Authorize Zenodo” to grant access 
 
-img src="screenshots/github_authorize.png" alt="Authorize Zenodo to access GitHub" width="200" height="100"
+<img src="screenshots/github_authorize.png" alt="Authorize Zenodo to access GitHub" width="200" height="100">
 
 
-img src="screenshots/github_twofactor.png" alt="GitHub two factor authentication" width="200" height="100"
+<img src="screenshots/github_twofactor.png" alt="GitHub two factor authentication" width="200" height="100">
 
 After authorization, return to Zenodo.  
 1. In Zenodo, navigate to the GitHub section of your account settings. 
