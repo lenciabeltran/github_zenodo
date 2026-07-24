@@ -1,7 +1,8 @@
 Last updated: 2026-07-23
 
 This is the original version of the guidance.\
-Please find the shared and edited version in X
+Please find the shared and edited version at cul-it/github_zenodo_guide.\
+If you use this guide, please cite: 
 
 # A guide for integrating a GitHub repository in Zenodo 
  
@@ -109,7 +110,8 @@ If this is your first time connecting GitHub to Zenodo:
 - You may be asked to enter a verification code, depending on your account security settings 
 - Click “Authorize Zenodo” to grant access 
 
-![Authorize Zenodo to access GitHub](screenshots/github_authorize.png "Authorize Zenodo to access GitHub")
+<img src="screenshots/github_authorize.png" alt="Authorize Zenodo to access GitHub" style="display: block; margin: 0 auto; width: 50%;">
+
  
 ![GitHub two factor authentication](screenshots/github_twofactor.png "GitHub two factor authentication")
 
@@ -219,5 +221,3 @@ ___
 
 **Acknowledgements:**
 Special thanks to my colleagues, Gabby Evergreen, Dianne Dietrich, Wendy Kozlowski, Jennifer McKee, and Sarah Wright for reviewing this guide. 
- 
-If you use this guide, please kindly cite:  
