@@ -9,11 +9,6 @@ This section is for researchers who want the shortest path to making a GitHub-ho
 Follow these steps to get a DOI from Zenodo for your GitHub repository:
 
 ![GitHub and Zenodo integration flowchart](whitebackground03.drawio.png "GitHub and Zenodo integration flowchart")
-
-
-<img
-  src="whitebackground03.drawio.png"
-  alt="GitHub and Zenodo integration flowchart">
 ___ 
  
 ## Part 2. Detailed Guide and Reference 
@@ -35,12 +30,12 @@ If the repository was created as public, you can skip to Step 2. If it was creat
 - Go to your repository on GitHub and click Settings 
 - This will take you to the General Settings page 
  
-IMAGE
+![GitHub settings](screenshots/github_settings.png "GitHub settings")
 
 - Scroll down to the “Danger Zone” section 
 - Locate “Change your repository visibility” and click “Change visibility” 
 
-IMAGE 
+![GitHub change visibility](screenshots/github_changevisibility.png "GitHub change visibility")
 
 You will be asked to confirm the change (for example, by acknowledging a warning or entering the repository name) before the update is applied. 
 
@@ -57,8 +52,9 @@ If your repository does not yet have a license:
 - Go to the repository main page 
 - Click “Add file”, then “Create new file” 
  
-IMAGE
-IMAGE
+![GitHub create new file](screenshots/github_newfile.png "GitHub create new file")
+
+![GitHub add license](screenshots/github_addlicense.png "GitHub add license")
 
 - Name the file LICENSE (upper caps not required) 
 - Click “Choose a license template” 
@@ -67,7 +63,7 @@ IMAGE
 
 A commonly used license is the [MIT License](https://opensource.org/license/mit), but [choose a license](https://opensource.org/licenses) that makes sense for your project. 
 
-IMAGE
+![GitHub MIT License is visible](screenshots/github_licensevisible.png "GitHub MIT License is visible")
 
 **Add a CITATION.cff file (Recommended)**
 Consider adding a [CITATION.cff](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files) file so GitHub can display a “Cite this repository” link.  
@@ -85,7 +81,7 @@ To add a CITATION.cff file:
 - Edit the template with the details from your project 
 - Commit changes and write a descriptive commit message 
  
-IMAGE
+![GitHub create CITATION.cff file](screenshots/github_createcitation.png "GitHub create CITATION.cff file")
 
 Adding a [CITATION.cff](https://citation-file-format.github.io) ensures your software is citable directly from GitHub, even before creating a Zenodo release. Create your CITATION.cff file using the [CFFINIT generator tool](https://citation-file-format.github.io/cff-initializer-javascript/#/). 
 
@@ -97,12 +93,12 @@ ___
 1. Log in to Zenodo. 
 2. Click your profile name in the top-right corner and select GitHub from the dropdown menu. 
 
-IMAGE 
+![Zenodo profile and select GitHub](screenshots/zenodo_github.png "Zenodo profile and select GitHub")
 
 If this is your first time connecting GitHub to Zenodo: 
 - Click “Connect”
 
-IMAGE
+![Zenodo connect and enable GitHub](screenshots/zenodo_githubconnect.png "Zenodo connect and enable GitHub")
  
 - You will be redirected to GitHub to sign in 
 - You may be asked to enter a verification code, depending on your account security settings 
