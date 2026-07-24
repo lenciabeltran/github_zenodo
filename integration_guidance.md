@@ -112,7 +112,7 @@ If this is your first time connecting GitHub to Zenodo:
 
 <img src="screenshots/github_authorize.png" alt="Authorize Zenodo to access GitHub" style="display: block; margin: 0 auto; width: 50%;">
 
-<img src="screenshots/github_twofactor.png" alt="GitHub two factor authenticationb" style="display: block; margin: 0 auto; width: 60%">
+<img src="screenshots/github_twofactor.png" alt="GitHub two factor authenticationb" style="display: block; margin: 0 auto; width: 50%">
 
 After authorization, return to Zenodo.  
 1. In Zenodo, navigate to the GitHub section of your account settings. 
