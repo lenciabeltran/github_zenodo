@@ -223,4 +223,6 @@ Special thanks to my colleagues, Gabby Evergreen, Dianne Dietrich, Wendy Kozlows
 © 2026 Lencia McKee<br>
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.en).
+
+This work was developed as part of my role as a Research Data Librarian at Cornell University Library. I gratefully acknowledge the support of Research Data & Open Scholarship and Cornell Data Services in its development.
 </footer>
