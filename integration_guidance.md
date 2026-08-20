@@ -14,15 +14,16 @@ ___
 ## Part 2. Detailed Guide and Reference 
 This section expands on Part 1 (Quick Start) by providing step-by-step instructions for integrating GitHub with Zenodo, with added details and screenshots to guide through each step of the process. 
  
-**Table of Contents**
-Step 1: In GitHub, make sure your GitHub repository is public 
-Step 2: In GitHub, prepare metadata by adding a license file, add a CITATION.cff file 
-Step 3: In Zenodo, check that your GitHub repository is connected and enabled in Zenodo 
-Step 4: In GitHub, create a new release with a version tag 
-Step 5. In Zenodo, confirm that the record was created 
-Step 6: Cite the correct DOI 
+### Table of Contents
+
+- [Step 1]: In GitHub, make sure your GitHub repository is public(#step-1) 
+- [Step 2]: In GitHub, prepare metadata by adding a license file, add a CITATION.cff file(#step-2)
+- [Step 3]: In Zenodo, check that your GitHub repository is connected and enabled in Zenodo(#step-3)
+- [Step 4]: In GitHub, create a new release with a version tag(#step-4) 
+- [Step 5]: In Zenodo, confirm that the record was created(#step-5)
+- [Step 6]: Cite the correct DOI(#step-6)
  
-**Step 1. Make sure the repository is public**
+### **Step 1. Make sure the repository is public**
 Zenodo can only access public GitHub repositories. If the repository is private, Zenodo will not be able to archive it through this method. Files can still be uploaded manually to your Zenodo record as a separate process. 
 
 If the repository was created as public, you can skip to Step 2. If it was created as private, you can change it to public in the repository settings:  
@@ -43,7 +44,7 @@ You will be asked to confirm the change (for example, by acknowledging a warning
  
 ___
  
-**Step 2. Prepare metadata by adding a license and citation information**
+### **Step 2. Prepare metadata by adding a license and citation information**
 Add a [license file](https://opensource.org/licenses) to the GitHub repository (if one does not already exist) so users know how the software can be reused. It’s also recommended to add a license statement in your README file.  
 
 When creating a repository, GitHub allows you to select a license. If you chose one at the time, a LICENSE file will already appear in your repository (and be visible in the “About” section).  
@@ -90,7 +91,7 @@ Adding a [CITATION.cff](https://citation-file-format.github.io) ensures your sof
 
 ___
 
-**Step 3. Connect GitHub to Zenodo and enable the repository**
+### **Step 3. Connect GitHub to Zenodo and enable the repository**
 **Important:** If you created a GitHub release before enabling the repository in Zenodo, Zenodo will not go back and archive that earlier release automatically. You will need to create a new release after the integration is enabled.  
 
 1. Log in to Zenodo. 
@@ -125,7 +126,7 @@ Enabling the repository gives Zenodo permission to monitor and automatically arc
 You are not quite done yet! 
 ___
 
-**Step 4. Create a GitHub release**
+### **Step 4. Create a GitHub release**
 Enabling the GitHub repository in Zenodo is one step in a two-step process. Once the repository is enabled in Zenodo, the next step is to return to GitHub and create a release. 
 
 These steps must be completed in this order since Zenodo only archives releases that are created after the repository has been enabled. 
@@ -156,7 +157,7 @@ In the release form:
   - GitHub also lets you mark the release as a pre-release if it is not yet considered stable 
 ___ 
  
-**Step 5. Confirm a Zenodo record was created**
+### **Step 5. Confirm a Zenodo record was created**
 After you publish a release in GitHub, Zenodo will automatically process it and archive a snapshot of the repository. 
 
 This process may take some time, depending on the size of the repository and system load. Try refreshing every few minutes if you don’t see a Zenodo record of your GitHub reposiory. 
@@ -185,7 +186,7 @@ You can update this information as needed. For example, you might want to adjust
 When you are done editing the metadata, click “Publish.” If you need to change GitHub files, you must make those edits in GitHub (or locally on your machine and push them to GitHub), then create a new release to update your Zenodo record. 
 ___ 
 
-**Step 6. Cite the correct DOI**
+### **Step 6. Cite the correct DOI**
 Each time a new release is created in GitHub and Zenodo archives it, a new version-specific DOI is generated. 
  
 A Zenodo record will include: 
