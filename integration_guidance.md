@@ -16,12 +16,12 @@ This section expands on Part 1 (Quick Start) by providing step-by-step instructi
  
 ### Table of Contents
 
-- [Step 1: In GitHub, make sure your GitHub repository is public](#step-1) 
-- [Step 2: In GitHub, prepare metadata by adding a license file, add a CITATION.cff file](#step-2)
+- [Step 1: In GitHub, make sure your GitHub repository is public](#step-1-make-sure-the-repository-is-public) 
+- [Step 2: In GitHub, prepare metadata by adding a license file, add a CITATION.cff file](#step-2-prepare-metadata-by-adding-a-license-and-citation-information)
 - [Step 3: In Zenodo, check that your GitHub repository is connected and enabled in Zenodo](#step-3)
 - [Step 4: In GitHub, create a new release with a version tag](#step-4) 
 - [Step 5: In Zenodo, confirm that the record was created](#step-5)
-- [Step 6: Cite the correct DOI](#step-6)
+- [Step 6: Cite the correct DOI](#step-6-cite-the-correct-DOI)
  
 ### **Step 1. Make sure the repository is public**
 Zenodo can only access public GitHub repositories. If the repository is private, Zenodo will not be able to archive it through this method. Files can still be uploaded manually to your Zenodo record as a separate process. 
