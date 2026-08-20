@@ -1,6 +1,6 @@
 Last updated: 2026-07-23
 
-# A guide for integrating a GitHub repository in Zenodo 
+# A guide for making a GitHub repository citable through Zenodo 
  
 ## Part 1. Quick start  
 **What this quick start covers**
