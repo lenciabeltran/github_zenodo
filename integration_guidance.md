@@ -36,7 +36,7 @@ If the repository was created as public, you can skip to Step 2. If it was creat
 - Scroll down to the “Danger Zone” section 
 - Locate “Change your repository visibility” and click “Change visibility” 
 
-![GitHub change visibility](screenshots/github_changevisibility.png "GitHub change visibility")
+<img src="screenshots/github_changevisibility.png" alt="GitHub change visibility" style="display: block; margin: 0 auto; width: 80%">
 
 You will be asked to confirm the change (for example, by acknowledging a warning or entering the repository name) before the update is applied. 
 
@@ -92,7 +92,7 @@ Adding a [CITATION.cff](https://citation-file-format.github.io) ensures your sof
 ___
 
 ### **Step 3. Connect GitHub to Zenodo and enable the repository**
-**Important:** If you created a GitHub release before enabling the repository in Zenodo, Zenodo will not go back and archive that earlier release automatically. You will need to create a new release after the integration is enabled.  
+**Important:** If you created a GitHub release before enabling the repository in Zenodo, Zenodo will not go back and archive that earlier release automatically. You will need to create a new release after the integration is enabled.
 
 1. Log in to Zenodo. 
 2. Click your profile name in the top-right corner and select GitHub from the dropdown menu. 
@@ -150,8 +150,8 @@ In the release form:
       - Merged pull requests since the previous release 
       - A list of contributors 
       - A link to the changelog 
- 
-![Fill in the release in GitHub](screenshots/github_addrelease.png "Fill in the release in GitHub")
+
+<img src="screenshots/github_addrelease.png" alt="Fill in the release in GitHub" style="display: block; margin: 0 auto; width: 50%">
 
 - You can save the release as a draft or click “Publish release” when ready 
   - GitHub also lets you mark the release as a pre-release if it is not yet considered stable 
@@ -167,12 +167,12 @@ Once processing is complete:
 - Navigate to “My uploads” 
 - Locate the new record and click “View” 
 
-![Dashboard and Uploads page in Zenodo](screenshots/zenodo_dashboard.png "Dashboard and Uploads page in Zenodo")
+<img src="screenshots/zenodo_dashboard.png" alt="Dashboard and Uploads page in Zenodo" style="display: block; margin: 0 auto; width: 90%">
 
 On the record page: 
 - Click “Edit” on the right-hand side to review and update the metadata 
 
-![Edit metadata in zenodo record](screenshots/zenodo_editrecord.png "Edit metadata in zenodo record")
+<img src="screenshots/zenodo_editrecord.png" alt="Edit metadata in zenodo record" style="display: block; margin: 0 auto; width: 50%">
 
 You will see fields under “Basic Information,” including: 
 - DOI
@@ -201,7 +201,7 @@ Use the version-specific DOI when citing a specific release so that users kn
 Use the concept DOI when citing the software project as a whole across multiple versions. Check out [Zenodo’s DOI versioning documentation](https://zenodo.org/help/versioning) for more details. 
 ___
 
-**In case it’s helpful to know**\
+**In case it’s helpful to know**<br>
 Once a Zenodo record for your GitHub repository has been created, you have 30 days to delete the record. 
  
 If you experience any issues integrating your GitHub repository with Zenodo, please [open a support ticket with Zenodo](https://about.zenodo.org/contact/). Their support team can help troubleshoot the issue because the integration is tied directly to your account. 
